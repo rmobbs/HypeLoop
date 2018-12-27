@@ -1,0 +1,195 @@
+﻿<track bpm="90">
+  <music name="bensound-funnysong" offset_ms="-350" skip_ms="0"/>
+  <loops>
+    <loop name="loop1">
+      <notes>
+        <note beat="1" line="1"/>
+        <note beat="2" line="2"/>
+        <note beat="3" line="1"/>
+        <note beat="4" line="2"/>
+      </notes>
+    </loop>
+    <loop name="loop2">
+      <notes>
+        <note beat="1" line="4"/>
+        <note beat="1.5" line="3"/>
+        <note beat="2" line="2"/>
+        <note beat="2.25" line="1"/>
+        <note beat="2.5" line="2"/>
+        <note beat="2.75" line="1"/>
+        <note beat="3" line="4"/>
+        <note beat="3.5" line="3"/>
+        <note beat="4" line="1"/>
+        <note beat="4.167" line="2"/>
+        <note beat="4.333" line="1"/>
+        <note beat="4.5" line="4"/>
+        <note beat="4.75" line="3"/>
+      </notes>
+    </loop>
+    <loop name="loop3">
+      <notes>
+        <note beat="1" line="3"/>
+        <note beat="2" line="3"/>
+        <note beat="3" line="3"/>
+        <note beat="4" line="2"/>
+        <note beat="4.167" line="1"/>
+        <note beat="4.333" line="2"/>
+        <note beat="4.5" line="1"/>
+        <note beat="4.75" line="2"/>
+      </notes>
+    </loop>
+    <loop name="loop4">
+      <notes>
+        <note beat="1" line="2"/>
+        <note beat="2" line="4"/>
+        <note beat="3" line="2"/>
+        <note beat="4" line="1"/>
+      </notes>
+    </loop>
+    <loop name="loop5">
+      <notes>
+        <note beat="1" line="3"/>
+        <note beat="2" line="4"/>
+        <note beat="3" line="1"/>
+        <note beat="4" line="2"/>
+      </notes>
+    </loop>
+    <loop name="loop6">
+      <notes>
+        <note beat="1" line="3"/>
+        <note beat="2" line="4"/>
+        <note beat="3" line="3"/>
+        <note beat="4" line="2"/>
+      </notes>
+    </loop>
+    <loop name="loop7">
+      <notes>
+        <note beat="1" line="3"/>
+        <note beat="1" line="4"/>
+        <note beat="2" line="1"/>
+        <note beat="2" line="2"/>
+        <note beat="3" line="2"/>
+        <note beat="3" line="3"/>
+        <note beat="4" line="1"/>
+        <note beat="4" line="4"/>
+      </notes>
+    </loop>
+    <loop name="loop8">
+      <notes>
+        <note beat="1" line="3"/>
+        <note beat="1" line="4"/>
+        <note beat="1.33" line="1"/>
+        <note beat="1.67" line="3"/>
+        <note beat="1.67" line="4"/>
+        <note beat="2.5" line="1"/>
+        <note beat="2.5" line="2"/>
+        <note beat="3.5" line="1"/>
+        <note beat="3.5" line="2"/>
+        <note beat="4.0" line="1"/>
+        <note beat="4.0" line="2"/>
+        <note beat="4.5" line="1"/>
+        <note beat="4.5" line="2"/>
+      </notes>
+    </loop>
+    <loop name="loop9">
+      <notes>
+        <note beat="1" line="1"/>
+        <note beat="1.25" line="2"/>
+        <note beat="1.5" line="3"/>
+        <note beat="1.75" line="4"/>
+        <note beat="2" line="3"/>
+        <note beat="2.25" line="2"/>
+        <note beat="2.5" line="1"/>
+        <note beat="2.75" line="2"/>
+        <note beat="3" line="3"/>
+        <note beat="3.25" line="4"/>
+        <note beat="3.5" line="3"/>
+        <note beat="3.75" line="2"/>
+        <note beat="4" line="1"/>
+        <note beat="4.25" line="2"/>
+        <note beat="4.5" line="3"/>
+        <note beat="4.75" line="4"/>
+      </notes>
+    </loop>
+    <loop name="loop10">
+      <notes>
+        <note beat="1" line="3"/>
+        <note beat="1" line="4"/>
+        <note beat="2.5" line="1"/>
+        <note beat="2.5" line="2"/>
+        <note beat="4" line="1"/>
+        <note beat="4" line="4"/>
+      </notes>
+    </loop>
+  </loops>
+  <timeline>
+    <loop beat="1" name="loop1"/>
+    <loop beat="5" name="loop1"/>
+    <loop beat="9" name="loop1"/>
+    <loop beat="13" name="loop2"/>
+    <loop beat="17" name="loop1"/>
+    <loop beat="21" name="loop1"/>
+    <loop beat="25" name="loop1"/>
+    <loop beat="29" name="loop2"/>
+    <loop beat="33" name="loop1"/>
+    <loop beat="37" name="loop1"/>
+    <loop beat="41" name="loop1"/>
+    <loop beat="45" name="loop2"/>
+    <loop beat="49" name="loop1"/>
+    <loop beat="53" name="loop1"/>
+    <loop beat="57" name="loop1"/>
+    <loop beat="61" name="loop3"/>
+    <loop beat="65" name="loop4"/>
+    <loop beat="69" name="loop4"/>
+    <loop beat="73" name="loop4"/>
+    <loop beat="77" name="loop5"/>
+    <loop beat="81" name="loop1"/>
+    <loop beat="85" name="loop1"/>
+    <loop beat="89" name="loop1"/>
+    <loop beat="93" name="loop6"/>
+    <loop beat="97" name="loop1"/>
+    <loop beat="101" name="loop1"/>
+    <loop beat="105" name="loop1"/>
+    <loop beat="109" name="loop7"/>
+    <loop beat="113" name="loop1"/>
+    <loop beat="117" name="loop1"/>
+    <loop beat="121" name="loop1"/>
+    <loop beat="125" name="loop2"/>
+    <loop beat="129" name="loop7"/>
+    <loop beat="133" name="loop7"/>
+    <loop beat="137" name="loop7"/>
+    <loop beat="141" name="loop7"/>
+    <loop beat="145" name="loop5"/>
+    <loop beat="149" name="loop6"/>
+    <loop beat="153" name="loop5"/>
+    <loop beat="157" name="loop2"/>
+    <loop beat="161" name="loop8"/>
+    <loop beat="165" name="loop9"/>
+    <loop beat="169" name="loop8"/>
+    <loop beat="173" name="loop9"/>
+    <loop beat="177" name="loop10"/>
+    <loop beat="181" name="loop10"/>
+    <loop beat="185" name="loop10"/>
+    <loop beat="189" name="loop10"/>
+    <loop beat="193" name="loop1"/>
+    <loop beat="197" name="loop1"/>
+    <loop beat="201" name="loop1"/>
+    <loop beat="205" name="loop5"/>
+    <loop beat="209" name="loop1"/>
+    <loop beat="213" name="loop1"/>
+    <loop beat="217" name="loop1"/>
+    <loop beat="221" name="loop2"/>
+    <loop beat="225" name="loop1"/>
+    <loop beat="229" name="loop1"/>
+    <loop beat="233" name="loop1"/>
+    <loop beat="237" name="loop5"/>
+    <loop beat="241" name="loop6"/>
+    <loop beat="245" name="loop6"/>
+    <loop beat="249" name="loop6"/>
+    <loop beat="253" name="loop5"/>
+    <loop beat="257" name="loop6"/>
+    <loop beat="261" name="loop6"/>
+    <loop beat="265" name="loop6"/>
+    <loop beat="269" name="loop5"/>
+  </timeline>
+</track>
